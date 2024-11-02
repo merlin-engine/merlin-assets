@@ -1,0 +1,1 @@
+svgo --config ./svg.config.mjs -rf "D:\GitHub\merlin-assets\Drag-n-Drop Assets\images_with_dimensions" -o "D:\GitHub\merlin-assets\Drag-n-Drop Assets\optimized-svg"
